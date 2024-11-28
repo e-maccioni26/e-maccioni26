@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Elone Maccioni! 🚀
 
 🎓 **Master's Student in Full Stack Development** at [Efrei Paris](https://www.efrei.fr)  
-💼 **Digital Project Manager Apprentice** at [Crédit Agricole d'Ile-de-France](https://www.credit-agricole.fr/)  
+💼 **Digital Project Manager Apprentice** at [Crédit Agricole d'Ile-de-France]([https://www.credit-agricole.fr](https://www.credit-agricole.fr/ca-paris/particulier.html)/)  
 💻 Passionate **Programmer** & Fan of **React**, **Next.js**, and modern web technologies!  
 
 ---
