@@ -48,7 +48,7 @@
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/elone-maccioni/)  
-- 🌐 [Portfolio](https://#) *(coming soon)*  
+- 🌐 [Portfolio](#) *(coming soon)*  
 - 📧 Email: elonemacc@gmail.com  
 
 
