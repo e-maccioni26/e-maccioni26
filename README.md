@@ -30,15 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e-maccioni26&show_icons=true&theme=tokyonight" alt="Elone's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-maccioni26&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
----
-
 ## 🌱 Fun Facts
 
 - 🎮 When I'm not coding, you might find me gaming, brainstorming startup ideas, or learning about **blockchain technologies**.  
